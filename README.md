@@ -1,5 +1,4 @@
 
-![____2](https://github.com/NamanChaudhary1/NamanChaudhary1/assets/91721649/9727753a-52d1-4041-a959-0d1ce4b6dc6a)
 
 
 
