@@ -94,7 +94,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NamanChaudhary1&show_icons=true&count_private=true&hide_border=true&hide_rank=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NamanChaudhary1&show_icons=true&count_private=true&hide_border=true&rank_icon=github" align="center" /></div>  
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanChaudhary1&hide_border=true&layout=compact" align="center" /></div>  
 <br/>
