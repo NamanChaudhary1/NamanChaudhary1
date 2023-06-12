@@ -6,7 +6,7 @@
 ### <div align="center">I'm Naman, an Android developer 📲 and BTECH student in Thapar University 📝</div>  
   
 
-- 🔭 I’m currently working on ML Project  
+- 🔭 I’m currently working on ML Projects
   
 
 - 🌱 I’m currently learning ML and Android  
