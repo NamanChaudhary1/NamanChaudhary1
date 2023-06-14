@@ -94,9 +94,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=namanchaudhary1&show_icons=true&theme=synthwave&locale=en" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=namanchaudhary1&show_icons=true&locale=en" align="center" /></div>  
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchaudhary1&show_icons=true&theme=synthwave&locale=en&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchaudhary1&show_icons=true&locale=en&layout=compact" align="center" /></div>  
 <br/>
 
 
