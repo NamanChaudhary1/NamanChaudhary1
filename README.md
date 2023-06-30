@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Android and related technologies  
   
 
-- ⚡ Fun fact: Its all 0's and 1's  
+- ⚡ Fun fact: Its all about 0's and 1's  
   
 
 <br/>  
