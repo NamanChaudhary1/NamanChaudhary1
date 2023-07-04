@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Naman, an Android developer 📲 and BTECH student in Thapar University 📝</div>  
+### <div align="center">I'm Naman, an Android and ML developer 📲 and a BTECH student in Thapar University 📝</div>  
   
 
 - 🔭 I’m currently working on ML Projects
